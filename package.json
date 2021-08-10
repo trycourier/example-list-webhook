@@ -1,0 +1,22 @@
+{
+  "name": "example-list-webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trycourier/example-list-webhook.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trycourier/example-list-webhook/issues"
+  },
+  "homepage": "https://github.com/trycourier/example-list-webhook#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
